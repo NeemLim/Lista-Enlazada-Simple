@@ -64,7 +64,7 @@ public:
 		return -1;
 	}
 
-	//void showData()			Shows all element's value and positions
+	//void showData()			Shows all element's value and positions		//Not adecuate.
 	//{
 	//	Node* cursor = beggining;
 	//	for (int i = 0; i < count(); i = i + 3)
@@ -183,7 +183,7 @@ int main()
 			cout << "[1] Add data to the collection" << endl;
 			cout << "[2] Search value in the collection" << endl;
 			cout << "[3] Show value according to element´s position" << endl;
-			cout << "[4] Show the element's count" << endl;
+			cout << "[4] Show the elements count" << endl;
 			cout << "[5] Show all elements in the list." << endl;
 			cout << "[6] Update data value" << endl;
 			cout << "[7] Erase an element in the collection" << endl;
