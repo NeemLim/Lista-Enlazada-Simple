@@ -64,7 +64,7 @@ public:
 		return -1;
 	}
 
-	//void showData()			Shows all element's value and positions		//Not adecuate.
+	//void showData()			Shows all element's value and positions		//Not adecuate
 	//{
 	//	Node* cursor = beggining;
 	//	for (int i = 0; i < count(); i = i + 3)
